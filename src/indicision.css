@@ -1,0 +1,44 @@
+.body {
+    background-color:deeppink;
+}
+.header-css{
+    background-color:deeppink;
+    color: black;
+    
+}
+
+.header{
+   text-align: center;  
+}
+
+.action{
+    text-align: center;
+}
+
+.jk {
+    background-color:deeppink;
+    height: 100px;
+    width: 300px;
+    font-size: 30px;
+}
+.options {
+    background-color:deeppink ;
+    margin-top:10px ;
+    margin-bottom: 10px;
+    height: 100px;
+    width: 200px;
+    font-size: 30px;
+}
+
+.btn{
+    background-color:deeppink;
+    margin-right: 10px;
+}
+.bt{
+    background-color:deeppink
+}
+
+.actio{
+    text-align: center;
+    margin-top: 10px;
+}
